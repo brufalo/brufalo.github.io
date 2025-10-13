@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Simple two-column layout */
+.wrapper { display: grid; grid-template-columns: 1fr; gap: 2rem; }
+@media (min-width: 900px) {
+  .wrapper { grid-template-columns: 2fr 1fr; }
+  .content { order: 1; }
+  .sidebar { order: 2; }
+}
+
+/* Nav style */
+.nav { list-style: none; padding: 0; margin: 0.5rem 0 0; display: flex; gap: 1rem; }
+.nav a { text-decoration: none; }
