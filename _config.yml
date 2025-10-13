@@ -1,21 +1,10 @@
 title: "Oliver Brufal"
 description: "PhD Candidate in Economics | University of Groningen"
+
 remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
 
-# Quick profile block for sidebar (optional)
-profile:
-  name: "Oliver Brufal"
-  affiliation: "Department of Economics, University of Groningen"
-  email: "o.l.r.brufal.de.melgarejo[at]rug.nl"
-
-# Collections
-collections:
-  papers:
-    output: true
-  teaching:
-    output: true
-
-
-gem "github-pages", group: :jekyll_plugins
+photo: /assets/img/me.jpg     # put your photo here
+email: o.l.r.brufal.de.melgarejo[at]rug.nl   # shown + mailto link
+cv_url: /assets/cv.pdf        # link to your CV
