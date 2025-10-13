@@ -1,5 +1,7 @@
-title: "Your Name"
+title: "Oliver Brufal"
 description: "Personal Website"
 remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
+
+gem "github-pages", group: :jekyll_plugins
