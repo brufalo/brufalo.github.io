@@ -7,3 +7,6 @@ plugins:
 photo: /assets/img/me.jpg   
 email: o.l.r.brufal.de.melgarejo[at]rug.nl  
 cv_url: /assets/cv.pdf     
+
+url: "https://brufalo.github.io"
+baseurl: ""
