@@ -3,6 +3,7 @@ title: "Oliver Brufal"
 remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 photo: /assets/img/me.jpg   
 email: o.l.r.brufal.de.melgarejo[at]rug.nl  
