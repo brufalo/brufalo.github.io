@@ -1,6 +1,6 @@
 Hello! I am a PhD Candidate in Economics at the University of Groningen.
 
-My research is focused (broadly) on political and development economics, using historical data to ask (hopefully) interesting questions.
+My research is focused (broadly) on political and development economics from a historical perspective.
 
 ## Working papers
 "Resisting reform in the public sector: theory and historical evidence from the UK"
