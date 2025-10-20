@@ -5,11 +5,11 @@ My research is focused (broadly) on political and development economics from a h
 ## Working papers
 "Resisting reform in the public sector: theory and historical evidence from the UK"
 
-"Regional Identity in Organisations: Evidence from the Western Front of WWI"
+"Regional Identity in Organisations: Evidence from the Western Front of WWI" (with Johann Ohler)
 
 ## Work in progress
 "Did pandemics cause mistrust during colonialism? Evidence from annual vaccination records in Colonial India"
 
-Building local institutions in colonial Nigeria
+Building local institutions in colonial Nigeria (with Jutta Bolt)
 
 The consequences of colonial vaccination in India
