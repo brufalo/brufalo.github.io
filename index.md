@@ -5,7 +5,7 @@ My research is focused (broadly) on political and development economics from a h
 ## Working papers
 "Resisting reform in the public sector: theory and historical evidence from the UK" [[pdf]]({{ '/assets/resisting_reform_BrufalNov25.pdf' | relative_url }})
 
-"Regional Identity in Organisations: Evidence from the Western Front of WWI" (with <a href="https://REPLACE-WITH-JOHANN-URL" target="_blank" rel="noopener">Johann Ohler</a>)
+"Regional Identity in Organisations: Evidence from the Western Front of WWI" (with <a href="https://johannohler.com/" target="_blank" rel="noopener">Johann Ohler</a>)
 
 ## Work in progress
 "Did pandemics cause mistrust during colonialism? Evidence from annual vaccination records in Colonial India"
