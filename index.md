@@ -8,7 +8,7 @@ My research is focused (broadly) on political and development economics from a h
 "Regional Identity in Organisations: Evidence from the Western Front of WWI" (with <a href="https://johannohler.com/" target="_blank" rel="noopener">Johann Ohler</a>)
 
 ## Work in progress
-"Did pandemics cause mistrust during colonialism? Evidence from annual vaccination records in Colonial India"
+Pandemics and medical demand: Evidence from annual vaccination records in colonial India
 
 The political economy of crisis in colonial Nigeria (with Jutta Bolt)
 
