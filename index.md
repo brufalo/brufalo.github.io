@@ -10,6 +10,6 @@ My research is focused (broadly) on political and development economics from a h
 ## Work in progress
 "Did pandemics cause mistrust during colonialism? Evidence from annual vaccination records in Colonial India"
 
-Building local institutions in colonial Nigeria (with Jutta Bolt)
+The political economy of crisis in colonial Nigeria (with Jutta Bolt)
 
 The consequences of colonial vaccination in India
