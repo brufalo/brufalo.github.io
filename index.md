@@ -17,5 +17,3 @@ Regional Identity in Organisations: Vertical Alignment on the Western Front of W
 Pandemics and medical demand: Evidence from annual vaccination records in colonial India
 
 The political economy of crisis in colonial Nigeria (with Jutta Bolt)
-
-The consequences of colonial vaccination in India
