@@ -7,7 +7,7 @@ Find my CV [here](/assets/cv_OB.pdf).
 <div style="height: 40px;"></div>
 
 ## Working Papers
-Resisting institutional change: Evidence from 19th century Britain [<a href="{{ '/assets/resisting_reform_BrufalNov25.pdf' | relative_url }}" target="_blank" rel="noopener">pdf (old)</a>] [<a href="https://ehes.org/wp/EHES_288.pdf" target="_blank" rel="noopener">EHES WP (old)</a>]
+The dynamics of institutional change: Evidence from 19th century Britain [<a href="{{ '/assets/resisting_reform_BrufalNov25.pdf' | relative_url }}" target="_blank" rel="noopener">pdf (old)</a>] [<a href="https://ehes.org/wp/EHES_288.pdf" target="_blank" rel="noopener">EHES WP (old)</a>]
 
 Regional Identity in Organisations: Vertical Alignment on the Western Front of WW1 (with <a href="https://johannohler.com/" target="_blank" rel="noopener">Johann Ohler</a>) [<a href="https://www.dropbox.com/scl/fi/yp1rbztsqu7pfmlho69uz/WWI_ORG_0602.pdf?rlkey=xtknsep5vtzfrft73bbh1n2ba&e=1&st=ehsbhwjp&dl=0)">pdf</a>]
 
