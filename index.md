@@ -18,7 +18,7 @@ The dynamics of institutional change: Evidence from 19th century Britain [<a hre
   </summary>
 
   <p style="margin-top: 0.45rem; max-width: 760px; line-height: 1.55;">
-    <strong>Abstract:</strong> How does culture respond to institutional change? We study the collapse of the Holy Roman Empire (1789–1815), when half of Central Europe changed rulers. Using 44 million birth records from hundreds of cities between 1700 and 1850, we measure cultural traits in real time. Cities that experienced ruler change saw greater naming turnover, dispersion, and novelty. We construct control groups using diplomatic records to isolate these effects, which emerged immediately and persisted. The collapse of hegemonic authority weakened state-aligned identities while strengthening religiosity and nationalism. These shifts undermined subsequent state building, highlighting challenges of ideological integration after regime change.
+    <strong>Abstract:</strong> 
   </p>
 </details>
 
