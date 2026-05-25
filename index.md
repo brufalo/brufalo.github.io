@@ -23,7 +23,20 @@ Find my CV [here](/assets/cv_OB.pdf).
   </details>
 </p>
 
-Regional Identity in Organisations: Vertical Alignment on the Western Front of WW1 (with <a href="https://johannohler.com/" target="_blank" rel="noopener">Johann Ohler</a>) [<a href="https://www.dropbox.com/scl/fi/yp1rbztsqu7pfmlho69uz/WWI_ORG_0602.pdf?rlkey=xtknsep5vtzfrft73bbh1n2ba&e=1&st=ehsbhwjp&dl=0)">pdf</a>]
+<p style="margin-bottom: 0.15rem;">
+  <strong>Regional Identity in Organisations: Vertical Alignment on the Western Front of WW1</strong> (with <a href="https://johannohler.com/" target="_blank" rel="noopener">Johann Ohler</a>) 
+[<a href="https://www.dropbox.com/scl/fi/yp1rbztsqu7pfmlho69uz/WWI_ORG_0602.pdfrlkey=xtknsep5vtzfrft73bbh1n2ba&e=1&st=ehsbhwjp&dl=0)">pdf</a>]
+  <details style="display: inline;">
+    <summary style="cursor: pointer; display: inline; list-style: none;">
+  <span style="color: inherit;">
+    <a style="text-decoration: none;">[Abstract]</a>
+  </span>
+</summary>
+    <p style="margin-top: 0.45rem; max-width: 760px; line-height: 1.55;">
+      Soldiers in conscripted armies have low incentives to exert effort. We examine how shared regional identity between soldiers and officers affects this using data on all French fatalities during WW1. Following the death of a co-regional officer, soldiers from the same cultural region exhibit lower daily mortality relative to untreated regions within the same regiment. The effect is concentrated among low-ranking officers that possess clear cultural markers, when the cultural region is not diverse and when mission preferences are limited. This indicates clear social preferences for identity-aligned principals among soldiers.
+    </p>
+  </details>
+</p>
 
 <div style="height: 40px;"></div>
 
