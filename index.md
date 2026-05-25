@@ -41,6 +41,18 @@ Find my CV [here](/assets/cv_OB.pdf).
 <div style="height: 40px;"></div>
 
 ## Work in Progress
-Pandemics and medical demand: Evidence from annual vaccination records in colonial India
+<p style="margin-bottom: 0.15rem;">
+  Pandemics and medical demand: Evidence from annual vaccination records in colonial India
+  <details style="display: inline;">
+    <summary style="cursor: pointer; display: inline; list-style: none;">
+  <span style="color: inherit;">
+    <a style="text-decoration: none;">[Abstract]</a>
+  </span>
+</summary>
+    <p style="margin-top: 0.45rem; max-width: 760px; line-height: 1.55;">
+      How do pandemics affect medical demand? To study this, I combine district-level vaccination and mortality data from British India before, during, and after the 1918 influenza pandemic to study how pandemics affect medical demand in a developing nation. Districts worse affected by the pandemic report lower vaccinations, but only among young children. These differences disappear after three years. This demand shift is unrelated to either demographic or state capacity changes brought by the pandemic. I provide additional evidence suggesting that households reallocated resources in response to a short-term income shock, rather than changing their underlying attitudes to vaccination.
+    </p>
+  </details>
+</p>
 
 The political economy of crisis in colonial Nigeria (with Jutta Bolt)
