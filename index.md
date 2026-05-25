@@ -8,11 +8,21 @@ Find my CV [here](/assets/cv_OB.pdf).
 
 ## Working Papers
 The dynamics of institutional change: Evidence from 19th century Britain [<a href="{{ '/assets/resisting_reform_BrufalNov25.pdf' | relative_url }}" target="_blank" rel="noopener">pdf (old)</a>] [<a href="https://ehes.org/wp/EHES_288.pdf" target="_blank" rel="noopener">EHES WP (old)</a>]
+<details style="margin-top: -0.5rem; margin-bottom: 1.25rem;">
+  <summary style="
+    cursor: pointer;
+    display: inline-block;
+    padding: 0.25rem 0.6rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    background: #f8f8f8;
+  ">
+    Abstract
+  </summary>
 
-<details>
-  <summary>Abstract</summary>
-  <p>
-    
+  <p style="margin-top: 0.6rem; max-width: 720px; line-height: 1.55;">
+    This paper examines the dynamics of institutional change in nineteenth-century Britain...
   </p>
 </details>
 
