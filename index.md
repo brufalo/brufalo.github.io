@@ -12,7 +12,7 @@ Find my CV [here](/assets/cv_OB.pdf).
   [<a href="{{ '/assets/resisting_reform_BrufalNov25.pdf' | relative_url }}" target="_blank" rel="noopener">pdf (old)</a>]
   [<a href="https://ehes.org/wp/EHES_288.pdf" target="_blank" rel="noopener">EHES WP (old)</a>]
   <details style="display: inline;">
-    <summary style="cursor: pointer; display: inline; list-style: none;">[Abstract]</summary>
+    <summary style="cursor: pointer; display: inline; list-style: none; color: #0645ad;">[Abstract]</summary>
     <p style="margin-top: 0.45rem; max-width: 760px; line-height: 1.55;">
       Abstract:
     </p>
