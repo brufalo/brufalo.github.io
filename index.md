@@ -18,7 +18,7 @@ Find my CV [here](/assets/cv_OB.pdf).
   </span>
 </summary>
     <p style="margin-top: 0.45rem; max-width: 760px; line-height: 1.55;">
-      Abstract:
+      Institutional reform is typically taken for granted in order to aid comparisons across and within countries. How reforms actually change institutions at a micro-level is often overlooked in historical research. I collected and digitised individual-level data on thousands of entrants to the British Civil Service from 1864-1875. I study an 1870 reform that forced exam-based hiring on a large part of, but not all, the public sector. Patronage use declined among treated organisations but remained an important hiring procedure. I find that civil service departments with more routine labour functions adopted examinations, while those with more varied tasks did not. Where potential skill was thought to be better measured by exams, departments complied as it was in their interest. I show that the degree of non-compliance was also explained by bargaining power between departments.
     </p>
   </details>
 </p>
