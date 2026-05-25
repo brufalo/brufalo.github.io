@@ -8,21 +8,17 @@ Find my CV [here](/assets/cv_OB.pdf).
 
 ## Working Papers
 The dynamics of institutional change: Evidence from 19th century Britain [<a href="{{ '/assets/resisting_reform_BrufalNov25.pdf' | relative_url }}" target="_blank" rel="noopener">pdf (old)</a>] [<a href="https://ehes.org/wp/EHES_288.pdf" target="_blank" rel="noopener">EHES WP (old)</a>]
-<details style="margin-top: -0.5rem; margin-bottom: 1.25rem;">
+<details style="margin-top: 0; margin-bottom: 1.25rem;">
   <summary style="
     cursor: pointer;
-    display: inline-block;
-    padding: 0.25rem 0.6rem;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    font-size: 0.85rem;
-    background: #f8f8f8;
+    display: inline;
+    list-style: none;
   ">
-    Abstract
+    [Abstract]
   </summary>
 
-  <p style="margin-top: 0.6rem; max-width: 720px; line-height: 1.55;">
-    This paper examines the dynamics of institutional change in nineteenth-century Britain...
+  <p style="margin-top: 0.45rem; max-width: 760px; line-height: 1.55;">
+    <strong>Abstract:</strong> How does culture respond to institutional change? We study the collapse of the Holy Roman Empire (1789–1815), when half of Central Europe changed rulers. Using 44 million birth records from hundreds of cities between 1700 and 1850, we measure cultural traits in real time. Cities that experienced ruler change saw greater naming turnover, dispersion, and novelty. We construct control groups using diplomatic records to isolate these effects, which emerged immediately and persisted. The collapse of hegemonic authority weakened state-aligned identities while strengthening religiosity and nationalism. These shifts undermined subsequent state building, highlighting challenges of ideological integration after regime change.
   </p>
 </details>
 
