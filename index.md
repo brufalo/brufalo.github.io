@@ -33,7 +33,7 @@ Find my CV [here](/assets/cv_OB.pdf).
   </span>
 </summary>
     <p style="margin-top: 0.45rem; max-width: 760px; line-height: 1.55;">
-      Soldiers in conscripted armies have low incentives to exert effort. We examine how shared regional identity between soldiers and officers affects this using data on all French fatalities during WW1. Following the death of a co-regional officer, soldiers from the same cultural region exhibit lower daily mortality relative to untreated regions within the same regiment. The effect is concentrated among low-ranking officers that possess clear cultural markers, when the cultural region is not diverse and when mission preferences are limited. This indicates clear social preferences for identity-aligned principals among soldiers.
+      Soldiers in conscripted armies have low incentives to exert effort. We examine how shared regional identity between soldiers and officers affects this using data on all French fatalities during WW1. Following the death of a co-regional officer, soldiers from the same cultural region exhibit lower daily mortality relative to soldiers from different cultural regions within the same regiment. The effect is concentrated among low-ranking officers that possess clear cultural markers, when the cultural region is not diverse and when mission preferences are limited. This indicates clear social preferences for identity-aligned principals among soldiers.
     </p>
   </details>
 </p>
