@@ -55,4 +55,4 @@ Find my CV [here](/assets/cv_OB.pdf).
   </details>
 </p>
 
-The political economy of crisis in colonial Nigeria (with Jutta Bolt)
+Local governance in colonial Nigeria (with Jutta Bolt)
