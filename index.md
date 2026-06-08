@@ -18,7 +18,7 @@ Find my CV [here](/assets/cv_OB.pdf).
   </span>
 </summary>
     <p style="margin-top: 0.45rem; max-width: 760px; line-height: 1.55;">
-      How do institutional reforms change institutions at a micro-level? I collected and digitised individual-level data on thousands of entrants to the British Civil Service from 1864-1875. I study an 1870 reform that forced exam-based hiring on a large part of, but not all, the public sector. Patronage use declined among treated organisations but remained an important hiring procedure. The degree of compliance was determined by the organisations' perception of examinations as a measure of future skill in the role. Departments with more routine labour functions adopted examinations, those without did not. Political bargaining power appears to be pivotal in allowing non-routine departments to evade legislation due to the presence of loopholes in the original reform.
+      How do institutional reforms work at a micro-level? I collected and digitised individual-level data on thousands of entrants to the British Civil Service from 1864-1875. I study an 1870 reform that forced exam-based hiring on a large part of, but not all, the public sector. Patronage use declined among treated organisations but remained an important hiring procedure. The degree of compliance was determined by the organisations' perception of examinations as a measure of future skill in the role. Departments with more routine labour functions adopted examinations, those without did not. Political bargaining power appears to be pivotal in allowing non-routine departments to evade legislation due to the presence of loopholes in the original reform.
     </p>
   </details>
 </p>
