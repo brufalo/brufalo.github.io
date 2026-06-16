@@ -9,7 +9,7 @@ Find my CV [here](/assets/cv_OB.pdf).
 ## Working Papers
 <p style="margin-bottom: 0.15rem;">
   <strong>The dynamics of institutional change: Evidence from 19th century Britain</strong>
-  [<a href="{{ '/assets/OIC_draft_June26.pdf' | relative_url }}" target="_blank" rel="noopener">pdf (old)</a>]
+  [<a href="{{ '/assets/OIC_draft_June26.pdf' | relative_url }}" target="_blank" rel="noopener">pdf</a>]
   <details style="display: inline;">
     <summary style="cursor: pointer; display: inline; list-style: none;">
   <span style="color: inherit;">
