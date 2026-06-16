@@ -9,8 +9,7 @@ Find my CV [here](/assets/cv_OB.pdf).
 ## Working Papers
 <p style="margin-bottom: 0.15rem;">
   <strong>The dynamics of institutional change: Evidence from 19th century Britain</strong>
-  [<a href="{{ '/assets/resisting_reform_BrufalNov25.pdf' | relative_url }}" target="_blank" rel="noopener">pdf (old)</a>]
-  [<a href="https://ehes.org/wp/EHES_288.pdf" target="_blank" rel="noopener">EHES WP (old)</a>]
+  [<a href="{{ '/assets/OIC_draft_June26.pdf' | relative_url }}" target="_blank" rel="noopener">pdf (old)</a>]
   <details style="display: inline;">
     <summary style="cursor: pointer; display: inline; list-style: none;">
   <span style="color: inherit;">
