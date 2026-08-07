@@ -26,7 +26,7 @@ Find my CV [here](/assets/cv_OB.pdf).
 
 ## Work in Progress
 <p style="margin-bottom: 0.15rem;">
-  Pandemics and medical demand: Evidence from annual vaccination records in colonial India
+  Pandemics and infant vaccination: Evidence from annual vaccination records in colonial India
   <details style="display: inline;">
     <summary style="cursor: pointer; display: inline; list-style: none;">
   <span style="color: inherit;">
