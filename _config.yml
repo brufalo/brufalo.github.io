@@ -1,0 +1,13 @@
+title: "Oliver Brufal"
+position: "PhD Candidate in Economics"
+institution: "University of Groningen"
+email: "o.l.r.brufal.de.melgarejo@rug.nl"
+github_user: "brufalo"
+cv_url: "/assets/cv_OB.pdf"
+photo: "/assets/img/me.jpg"
+
+url: "https://brufalo.github.io"
+baseurl: ""
+
+exclude:
+  - README.md
