@@ -1,0 +1,21 @@
+title: Oliver Brufal
+email: o.l.r.brufal.de.melgarejo@rug.nl
+description: "PhD Candidate in Economics, University of Groningen"
+url: "https://brufalo.github.io"
+baseurl: ""
+cv_url: /assets/cv_OB.pdf
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - research.md
+  - teaching.md
+
+webmaster_verifications:
+  google: "-GFJMZZeEGs_pyZqX7rzG7xI9mBcF_quvqNUgKdIjz8"
+
+exclude:
+  - README.md
