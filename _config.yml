@@ -3,7 +3,7 @@ email: o.l.r.brufal.de.melgarejo@rug.nl
 description: "PhD Candidate in Economics, University of Groningen"
 url: "https://brufalo.github.io"
 baseurl: ""
-cv_url: /assets/cv_OB.pdf
+cv_url: /assets/cvOB.pdf
 
 theme: minima
 plugins:
